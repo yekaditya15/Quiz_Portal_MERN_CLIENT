@@ -1,0 +1,8 @@
+/* Profile.css */
+.password-form {
+  width: 35%;
+}
+
+.password-form button {
+  margin-top: 10px; /* Add top margin to the button */
+}
