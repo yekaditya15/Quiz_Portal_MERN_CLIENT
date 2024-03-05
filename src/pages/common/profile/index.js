@@ -40,7 +40,7 @@ const Profile = () => {
 
       if (response.success) {
         message.success(response.message);
-        navigate("/home");
+        navigate("/login");
       } else {
         message.error(response.message);
       }
